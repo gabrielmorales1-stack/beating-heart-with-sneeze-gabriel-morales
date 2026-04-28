@@ -1,5 +1,6 @@
 {
     "name": "Rock, Paper,Scissors (Gabriel Morales",
+    "version": "0.0.1",
     "description": "",
     "dependencies": {
         "core": "*",
